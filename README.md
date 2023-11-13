@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jeff08095
+- 👋 Hi, I’m @Bryson Joseph
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning html & Css
 - 💞️ I’m looking to collaborate on student Ai
 - 📫 How to reach me jeffreyjefferson47@gmail.com
 
