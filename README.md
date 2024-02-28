@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bryson Joseph
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html & Css
 
 
 <!---
